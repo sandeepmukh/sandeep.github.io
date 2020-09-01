@@ -1,16 +1,15 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: about me
+subtitle: sparknotes of my life
 ---
 
-My name is Inigo Montoya. I have the following qualities:
-
-- I rock a great mustache
-- I'm extremely loyal to my family
-
+my name is Sandeep Mukherjee. here are a few things about me:
+- uc berkeley class of 2024, applied math & cs double major
+- i play the saxophone 
+- sometime i write code & do math & physics
 What else do you need?
 
-### My story
+### what i did during the pandemic
+i learned to bake, write some basic algos, learn html & css, trained for a 5k that got never happend, and started college. 
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
