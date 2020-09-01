@@ -5,7 +5,9 @@ layout: page
 {{ content }}
 
 {% assign posts = paginator.posts | default: site.posts %}
-
+<head>
+  <link rel="shortcut icon" type="image/x-icon" href="assets/img/favicon.ico" />
+</head>
 <div class="posts-list">
   {% for post in posts %}
   <article class="post-preview">
