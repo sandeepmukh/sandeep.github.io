@@ -12,8 +12,7 @@ markdown: GFM
 navbar-links:
   about me: "aboutme"
   extra:
-    - projects: "projects"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+    - coming soon: "404"
   projects: "projects"
 
 # --- Logo --- #
