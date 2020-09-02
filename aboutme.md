@@ -3,7 +3,6 @@ layout: page
 title: about me
 subtitle: sparknotes of my life
 ---
-![](assets/img/HogGif.gif)
 my name is Sandeep Mukherjee. here are a few things about me:
 - uc berkeley class of 2024, applied math & cs double major
 - i play the saxophone 
