@@ -10,10 +10,10 @@ author: Sandeep Mukherjee
 
 navbar-links:
   about me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
+  extra:
+    - projects: "projects"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  projects: "projects"
 
 # --- Logo --- #
 
@@ -113,6 +113,8 @@ footer-link-col: "#404040"
 # For any extra customization, you can include additional CSS files in every page on your site. List any custom CSS files here
 #site-css:
 #  - "/assets/css/custom-styles.css"
+#  - "/assets/css/projects.css"
+#  - "/assets/css/bootstrap.min.css"
 
 # --- Web Analytics Section --- #
 
