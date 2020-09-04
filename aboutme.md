@@ -10,5 +10,5 @@ my name is Sandeep Mukherjee. here are a few things about me:
 What else do you need?
 
 ### what i did during the pandemic
-i learned to bake, write some basic algos, learn html & css, trained for a 5k that got never happend, and started college. 
+i learned to bake, write some basic algos at google's cssi, learn html & css, trained for a 5k that got happened, and started college. 
 
